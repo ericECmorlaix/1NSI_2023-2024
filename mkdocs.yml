@@ -29,8 +29,8 @@ nav:
     # #   - Numération binaire : Binaire-Le_BN_pour_coder.ipynb
     # #   - Code Hexadécimal : Hexadecimal-Autre_BN_pour_coder.ipynb
     
-    - Langage et Programmation :
-        - Initiation Python : https://fr.futurecoder.io/course/#IntroducingTheShell
+    # - Langage et Programmation :
+    #     - Initiation Python : https://fr.futurecoder.io/course/#IntroducingTheShell
         # - Cours et problèmes : FranceIOI.md
         # - Bases de Programmation en Python3 : Programmation-Python3-Quelques_bases.ipynb
     - Ressources : ressources.md
