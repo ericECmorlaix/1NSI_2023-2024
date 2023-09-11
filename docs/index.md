@@ -479,7 +479,23 @@
     - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
 
 *** -->
-## Le 06/09
+***
+## Les 11, 13 et 14/09
+
+=== "CONTENU DE SÉANCE"
+
+    - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples, et **partager** par [mail] un lien pointant vers ce document...==
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finaliser** votre fiche d'informations au format MarkDown et la transmettre en PJ d'un [mail] ;
+    - **Visionner**  "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"} -> ==**relever** les mots et dates clefs== :  
+    <figure>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </figure>
+***
+## Les 06 et 07/09
 
 === "CONTENU DE SÉANCE"
 
