@@ -472,25 +472,22 @@
 
     - Remédiation autour [du classeur numérique pour la NSI sur GitHub](./github) -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, autres questions... ?==
 
-    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](./notebook) résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et le transmettre par [mail]==
-
-=== "TRAVAIL À FAIRE"
-
-    - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
-
+    
 *** -->
 ***
-## Le 18/09
+## Les 18, 20 et 22/09
 
 === "CONTENU DE SÉANCE"
 
+    - Remédiation autour [du classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/github/){target=_blank} -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, [VSCode pour le web](https://vscode.dev/){target=_blank}, autres questions... ?==
     - Découvrir comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
 
 === "TRAVAIL À FAIRE"
 
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples, et **partager** par [mail] un lien pointant vers ce document...==
-    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
-    - **finir les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank}    
+    - **finir** et **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;    
+    - **finir les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
+    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;    
 ***
 ## Les 11, 13, 14 et 15/09
 
