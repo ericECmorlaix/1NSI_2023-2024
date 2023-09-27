@@ -456,7 +456,7 @@
     
 *** -->
 ***
-## Les 18, 20 et 22/09
+## Les 27 et 29/09
 
 === "CONTENU DE SÉANCE"
 
@@ -477,8 +477,7 @@
     </center>   
 ***
 
-
-## Les 18, 20 et 22/09
+## Les 18, 20, 22 et 25/09
 
 === "CONTENU DE SÉANCE"
 
