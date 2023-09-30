@@ -13,6 +13,7 @@
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+[notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank}
 
 ***
 
@@ -446,7 +447,7 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
+    - **rendre** par [mail] votre [notebook jupyter] mémo des vos apprentissages en Python ;
     - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
     - **finir les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
     - **lire et faire** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
@@ -463,11 +464,11 @@
     - Retour sur le T.A.F. et synthèse de représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
     - **Découvrir** la [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}​ -> ==**Compléter** le notebook et **faire** les exercices des activités : <span class='fa fa-graduation-cap' style="color: MediumSeaGreen"> A faire vous même n°...</span>==
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
 
 === "TRAVAIL À FAIRE"
 
-    - **finir** et **rendre** par [mail] votre [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} mémo des vos apprentissages en Python ;    
+    - **finir** et **rendre** par [mail] votre [notebook jupyter] mémo des vos apprentissages en Python ;    
     - **finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
     - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
@@ -483,11 +484,11 @@
 
     - Remédiation autour [du classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, [VSCode pour le web](https://vscode.dev/){target=_blank}, autres questions... ?==
     - Découvrir comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} -> ==**compléter** une copie de ce notebook dans votre classeur sur GitHub et **partager** par [mail] un lien pointant vers ce document...==[:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et en y définissant des mots du vocabulaire de l'informatique (liste non exaustive : indentation, concaténation, affectation, addition, opération, expression, instruction, évaluation, itération, ... ), et **partager** par [mail] un lien pointant vers ce document...==
 
 === "TRAVAIL À FAIRE"
 
-    - **poursuivre** votre [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} mémo des vos apprentissages en Python et **partager** par [mail] un lien pointant vers ce document ;    
+    - **poursuivre** votre [notebook jupyter] mémo des vos apprentissages en Python et **partager** par [mail] un lien pointant vers ce document ;    
     - **finir** les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb){target=_blank} ;
     - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
     - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
@@ -501,7 +502,7 @@
 === "CONTENU DE SÉANCE"
 
     - **Personaliser** [votre classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil== ;
-    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter](https://ericecmorlaix.github.io/IDE/adn-Tutoriel_lab_si/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples, et **partager** par [mail] un lien pointant vers ce document...==
+    - **Poursuivre** votre apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** parallèlement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples, et **partager** par [mail] un lien pointant vers ce document...==
 
 === "TRAVAIL À FAIRE"
 
@@ -517,7 +518,7 @@
 
     - Accueil, [présentation de la matière](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}, -> ==**remplir** une fiche d'informations== ;
     - **Initier** [un classeur numérique pour la NSI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
-    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/) résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+    - **Découvrir** [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter] résumé de vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
 === "TRAVAIL À FAIRE"
 
