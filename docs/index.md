@@ -362,9 +362,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Correction des activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}​ ;
-    - [ASCII_UTF8-Le_BN_pour_coder_les_caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary}
+   
     - [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
@@ -396,49 +394,49 @@
 
     - **Visiter** dans l'atrium les ateliers de la Fête de la Science et en particulier ceux des Terminales NSI ;
 
-    - **Finir** les activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb)​{target=_blank}-> ==**Transmettre** le notebook complété par [mail]==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
-
-    - **Finaliser** le reste du TAF...
-
-=== "TRAVAIL À FAIRE"
 
 
-    
-***
-## Le 06/10
+*** -->
 
-
-    
-
-=== "TRAVAIL À FAIRE"
-
-    - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
- 
-    - Se préparer pour un QCM le 07/10 sur la représentation binaire des nombres entiers et sur les bases de la programmation en Python.
-    - **Relire** [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) ;
-***
-## Le 03/10
+## Le 06/11
 
 === "CONTENU DE SÉANCE"
 
-    - Correction et fin de la [représentation binaire des nombres entiers positifs](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank}​ -> ==Reste à **programmer** un script pour générer au format markdown un tableau de conversion décimal >>> binaire avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank}==
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary}
-    
+    - Retour sur le T.A.F. à finir et à rendre... ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
-    - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+    - **finir** les activités des notebooks [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){target=_blank} et [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} pour les **transmettre** par [mail] ;
 
-*** -->
+    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank}==
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary};
+    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+## Le 13/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par [QCM](https://genumsi.inria.fr/qcm.php?h=fcfeaf36b744720c69eeb13a1b08dea0){target=_blank}
+
+=== "TRAVAIL À FAIRE"
+    - **finir** les activités des notebooks [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){target=_blank} et [l'ASCII et UTF8 pour coder les caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank} pour les **transmettre** par [mail] ;
+    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank}, **ajouter** une colonne en hexadécimal en utilisant [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){target=_blank}==
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb){ .md-button .md-button--primary};
+    - **Découvrir** le système de numération des Shadoks et imaginer un script de conversion :
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>       
+
 ***
 
 ## Le 11/10
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
+    - Synthèse partielle sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
 
 === "TRAVAIL À FAIRE"
 
