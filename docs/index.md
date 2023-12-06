@@ -290,15 +290,7 @@
 
 ***
 
-## Le 25/11
 
-=== "CONTENU DE SÉANCE"
-
-    - Evaluation par QCM
-
-=== "TRAVAIL À FAIRE"
-
-    - Finaliser et remmettre l'ensemble des travaux du trimestre par [mail]
 
 ***
 ## Du 14 au 24/11
@@ -313,86 +305,54 @@
 
     - Finaliser et remmettre l'ensemble des travaux du trimestre par [mail]
 
-***
-## Le 07/11
 
-- [Un tutoriel qui présente et explore certaines fonctionnalités d'Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
 
 ## Le 17/10
 
 === "CONTENU DE SÉANCE"
 
-    - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et y apairer vos fichiers `note.ipynb` avec des `note.md` grace à jupytext dans Carnets== ;
-
-    ??? resume "Memo de procédure de synchronisation avec GitHub sur iPad"
-
-        Il y a une procédure spécifique pour Mobile (qui doit pouvoir s'appliquer également sur PC) :
-
-        - créer un dépôt sur GitHub (privé ou public) avec un petit README.md (c'est plus pratique) ;
-        - générer une clé d'identification sur GitHub <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
-        - créer un nouveau coffre dans Obsidian ;
-        - installer et activer le plugin "Obsidian Git" <https://github.com/denolehov/obsidian-git> ;
-        - renseigner les champs password/personal access token et username dans la configuration du plugin "Obsidian Git"
-        - puis depuis la palette de commande choisir `Obsidian Git: Clone an existing remote repo` et suivre les instructions...
+    - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
 
 
-    ???+ tip "Comment se construire un second cerveau avec Obsidian en mode [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten)"
-
-        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9BLia6FN4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/upyTEnzqJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/beCbmjygkAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-         
 
 
-    - **Expérimenter** [Obsidian](https://obsidian.md/){target=_blank} et faire un comparatif avec une autre application comme : [notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281){target=_blank},
-     [drafts](https://apps.apple.com/gb/app/drafts/id1236254471){target=_blank},
-     [ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038){target=_blank},     
-     [bear](https://apps.apple.com/gb/app/bear/id1016366447){target=_blank},
-     [pretext](https://apps.apple.com/gb/app/pretext/id1347707000){target=_blank},
-    
-***
+ 
 
-## Les 13 et 14/10
-
-=== "CONTENU DE SÉANCE"
-
-   
-    
-
-    - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    
-
-=== "TRAVAIL À FAIRE"
-
-    
-    - **Expérimenter** [Obsidian](https://obsidian.md/){target=_blank} et faire un comparatif avec une autre application comme : [notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281){target=_blank},
-     [drafts](https://apps.apple.com/gb/app/drafts/id1236254471){target=_blank},
-     [ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038){target=_blank},     
-     [bear](https://apps.apple.com/gb/app/bear/id1016366447){target=_blank},
-     [pretext](https://apps.apple.com/gb/app/pretext/id1347707000){target=_blank},
-    
-***
-
-## Le 10/10
-
-=== "CONTENU DE SÉANCE"
-
-    - **Visiter** dans l'atrium les ateliers de la Fête de la Science et en particulier ceux des Terminales NSI ;
-
-***
 
 ajouter de l'interactivité à une page web en langage Python
 
  -->
-## Le 17/11
+***
+
+## Les 01, 04, 06 et 08/12
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
+    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
+    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
+
+    - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==**Synchroniser** votre classeur déposé sur GitHub avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Rendre** tous les travaux à finir ;
+
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
+
+***
+
+## Le 29/11 
+
+- Synthèse bilan du T1
+
+***
+
+## Du 17/11 au 28/11
 
 === "CONTENU DE SÉANCE"
 
@@ -411,6 +371,7 @@ ajouter de l'interactivité à une page web en langage Python
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
 
+***
 
 ## Le 08/11
 
@@ -429,6 +390,7 @@ ajouter de l'interactivité à une page web en langage Python
     <center>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lP9PaDs2xgQ?si=tHVffSiabWDMU7Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
+
 ***
 
 ## Le 06/11
