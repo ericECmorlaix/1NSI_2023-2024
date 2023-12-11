@@ -324,6 +324,25 @@ ajouter de l'interactivité à une page web en langage Python
  -->
 ***
 
+## Le 11/12
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Faire** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
+    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
+    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
+
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
+***
+
 ## Les 01, 04, 06 et 08/12
 
 === "CONTENU DE SÉANCE"
