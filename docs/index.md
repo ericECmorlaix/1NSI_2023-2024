@@ -267,13 +267,6 @@
     - Découvrir le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
 
-=== "TRAVAIL À FAIRE"
-
-    - Finaliser les notes de synthèse et récupérer une copie au format MarkDown dans votre classeur numérique.
-    - Devoir Maison :
-        - **faire** les exercices d'[UTF-8](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb#Vers-l'UTF8-:){target=_blank}
-        -  **réaliser** un script pour [le chiffre de César](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
-
 ***
 ## Du 28/11 au 02/12
 
@@ -283,48 +276,41 @@
         - [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank}
         - [Memo de HTML5](https://codimd.apps.education.fr/BpZd89D2RWqxkfp14uDfSA){target=_blank}
 
-=== "TRAVAIL À FAIRE"
-
-    - Finaliser les notes de synthèse et récupérer une copie au format MarkDown dans votre classeur numérique.
-    - Devoir Maison : **faire** les exercices d'[UTF-8](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb#Vers-l'UTF8-:)
-
-***
-
-
-
-***
-## Du 14 au 24/11
-
-=== "CONTENU DE SÉANCE"
-
-    - **Rejoindre** la classe sur la [KhanAcademy](https://fr.khanacademy.org/join/DPQJKCRG){target="_blank"} pour **suivre** l'activité [Introduction à HTML/CSS : réaliser des pages Web](https://fr.khanacademy.org/computing/computer-programming/html-css) : ==**Constituer** progressivement une note, un memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript==
-
-    - **Publier** un projet Web sur [Glitch](https://glitch.com/){target="_blank"} et [GitHub](https://github.com/){target="_blank"} à l'aide des langages [HTML/CSS/JavaScript](http://api.si.lycee.ecmorlaix.fr/APprentissageHtmlCss/){target="_blank"} : ==**Coller** les liens vers votre site et votre dépot dans votre memo HTML/CSS/JavaScript et **transmettre** le tout par [mail]==
-
-=== "TRAVAIL À FAIRE"
-
-    - Finaliser et remmettre l'ensemble des travaux du trimestre par [mail]
-
-
-
-## Le 17/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Découverte de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et donner accès à vos fichiers `notebook.ipynb` de ce dossier à l'application Carnets== ;
-
-
-
-
- 
 
 
 ajouter de l'interactivité à une page web en langage Python
 
  -->
 ***
+## Les 18 et 20/12
 
-## Le 11/12
+=== "CONTENU DE SÉANCE"
+    
+    - **Répondre** aux questions du notebook [0467-2585879 : Activité de recherche des fonctions logiques](https://capytale2.ac-paris.fr/web/c/0467-2585879){target=_blank} ;
+
+    - **Faire** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+
+    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Se préparer** pour une évaluation par QCM le 22/12/2023 ;
+    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
+
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
+    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
+    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
+
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; 
+***
+
+## Les 11, 13 et 15/12
 
 === "CONTENU DE SÉANCE"
     
