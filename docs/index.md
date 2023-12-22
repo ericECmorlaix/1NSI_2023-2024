@@ -282,6 +282,32 @@ ajouter de l'interactivité à une page web en langage Python
 
  -->
 ***
+## Le 22/12
+
+=== "CONTENU DE SÉANCE"
+    
+    - Evaluation par QCM [Logique booléenne, IHM web statique, ...](https://genumsi.inria.fr/qcm.php?h=aaf8bf40e0b003fe80c1ccc5089df3c9){target=_blank} ;
+
+    - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+
+    - **Découvrir** le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+
+=== "TRAVAIL À FAIRE"    
+    
+    - **Finir** les activités de [Web Statique avec PyScript](https://ericecmorlaix.github.io/Web_Statique_PyScript/){target=_blank} > ==**Rendre** via [le notebook d76b-2521137 sur Capytale pour le 10/01/2024](https://capytale2.ac-paris.fr/web/c/d76b-2521137){target=_blank} ;
+
+    - **Finir** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} ;
+    > ==**Transmettre** par [mail] un lien pointant vers votre memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript et contenant les liens renvoyant vers vos différents sites web==
+
+    - **Finir** les activités et l'application au chiffre de César du notebook [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank} et le **transmettre** par [mail] ;
+
+    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; 
+***
 ## Les 18 et 20/12
 
 === "CONTENU DE SÉANCE"
