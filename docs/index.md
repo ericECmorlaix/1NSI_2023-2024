@@ -169,38 +169,6 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 
-***
-## Les 26 et 27/01
-
-=== "CONTENU DE SÉANCE"
-
-    - **Correction** des questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} ;
-    - **faire** les activités du notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Revoir** les [Opérateurs booléenns avec futurecoder.io](https://futurecoder.forge.aeif.fr/course/#toc){target=_blank} ;
-
-    - **Faire** les exercices pratiques :
-        - [Autour des booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-autour_des_booleens/sujet/){target=_blank} ;
-        - [Opérateurs booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-operateurs_booleens/sujet/){target=_blank} ;
-        - [Années bissextiles](https://e-nsi.forge.aeif.fr/pratique/N0/200-bissextile/sujet/){target=_blank} ;
-
-    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
-
-        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
-        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
-        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
-        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
-        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
-        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
-        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
-    
-    
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 ***
 ## Le 23/01
@@ -246,16 +214,12 @@
 
     - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Fonctions_et_modularisation.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
-
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
+    
 
 === "TRAVAIL À FAIRE"
 
     - Finaliser la note de synthèse [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank} et récupérer une copie au format MarkDown dans votre classeur numérique.
-    - Devoir Maison :
-        - **faire** les exercices d'[UTF-8](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb#Vers-l'UTF8-:){target=_blank}
-        -  **réaliser** un script pour [le chiffre de César](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
+
 
 ***
 ## Du 05 au 09/12
@@ -281,6 +245,47 @@
 ajouter de l'interactivité à une page web en langage Python
 
  -->
+
+***
+## Le 08/01
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Les_types_construits.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Les_types_construits.ipynb){ .md-button .md-button--primary}
+
+    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Fonctions_et_modularisation.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+
+=== "TRAVAIL À FAIRE"    
+    
+    - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
+
+     - **Revoir** les [opérateurs booléenns, les fonctions et les listes avec futurecoder.io](https://futurecoder.forge.aeif.fr/course/#toc){target=_blank} ;
+
+    - **Faire** les exercices pratiques :
+        - [Autour des booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-autour_des_booleens/sujet/){target=_blank} ;
+        - [Opérateurs booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-operateurs_booleens/sujet/){target=_blank} ;
+        - [Années bissextiles](https://e-nsi.forge.aeif.fr/pratique/N0/200-bissextile/sujet/){target=_blank} ;
+
+    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
+
+        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
+        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
+        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
+        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
+        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
+        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
+        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+    
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 ***
 ## Le 22/12
 
