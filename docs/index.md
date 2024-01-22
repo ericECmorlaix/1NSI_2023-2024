@@ -188,59 +188,35 @@
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 ***
-## Le 05/01
-
-=== "CONTENU DE SÉANCE"
-
-    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Kanban_ma_rue.md){ .md-button .md-button--primary}  
-
-=== "TRAVAIL À FAIRE"
-
-    - Remettre les travaux précédents (Tri, UTF-8, César) ;
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 
 
-## Du 12 au 16/12
 
-=== "CONTENU DE SÉANCE"
-
-  
-
-=== "TRAVAIL À FAIRE"
-
-    - Finaliser la note de synthèse [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank} et récupérer une copie au format MarkDown dans votre classeur numérique.
-
-
-***
-## Du 05 au 09/12
-
-=== "CONTENU DE SÉANCE"
 
     - Synthèse en écriture collective des travaux du trimestre : [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank} ;
-
-    - Découvrir le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
-
-***
-## Du 28/11 au 02/12
-
-=== "CONTENU DE SÉANCE"
 
     - Synthèse en écriture collective des travaux du trimestre :
         - [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank}
         - [Memo de HTML5](https://codimd.apps.education.fr/BpZd89D2RWqxkfp14uDfSA){target=_blank}
 
 
-
-ajouter de l'interactivité à une page web en langage Python
-
  -->
-https://capytale2.ac-paris.fr/web/c/d1e7-2737862
+***
+## Le 22/01
+
+=== "CONTENU DE SÉANCE"
+
+    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Kanban_ma_rue.md){ .md-button .md-button--primary}  
+
+=== "TRAVAIL À FAIRE"    
+    
+    - **Rendre** tous les travaux engagés précédemment... ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
 ***
 ## Le 15/01
 
@@ -252,10 +228,9 @@ https://capytale2.ac-paris.fr/web/c/d1e7-2737862
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
 
-
 === "TRAVAIL À FAIRE"    
     
-    - **Rendre** vos code pour les [fonctions de tri de trois valeurs `d1e7-2737862`](https://capytale2.ac-paris.fr/web/c/d1e7-2737862){target=_blank} ;
+    - **Rendre** vos codes pour les [fonctions de tri de trois valeurs `d1e7-2737862`](https://capytale2.ac-paris.fr/web/c/d1e7-2737862){target=_blank} ;
     - **Finir** les activités du notebook [Logique_Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Logique_Booleenne.ipynb){ .md-button .md-button--primary}
 
