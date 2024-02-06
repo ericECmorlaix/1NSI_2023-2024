@@ -202,6 +202,37 @@
 
  -->
 ***
+## Du 07/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Les_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
+
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+***
+## Les 02 et 05/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Présentations orales bilan du mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    
+=== "TRAVAIL À FAIRE"    
+    
+    - **Rendre** tous les travaux engagés précédemment... ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+***
+
 ## Le 22/01
 
 === "CONTENU DE SÉANCE"
