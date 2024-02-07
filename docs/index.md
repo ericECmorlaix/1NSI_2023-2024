@@ -209,6 +209,8 @@
     - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Les_tableaux.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Les_tableaux.ipynb){ .md-button .md-button--primary} ;
 
+    > **Compléter** les exercices correspondants sur [Capytale n° 3fba-2944900](https://capytale2.ac-paris.fr/web/c/3fba-2944900){target=_blank} ;
+
     - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ;
 
