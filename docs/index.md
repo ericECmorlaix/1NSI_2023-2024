@@ -211,8 +211,8 @@
     - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ;
 
-    <!-- - **Proposer** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ; -->
+    <!-- - **Proposer** vos solutions pour les fonctionnalités du notebook [Extras_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Extras_matrices.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Extras_matrices.ipynb){ .md-button .md-button--primary} ; -->
     
 
 === "TRAVAIL À FAIRE"
