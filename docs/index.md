@@ -202,6 +202,27 @@
 
  -->
 ***
+## Le19/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des [exercices pratiques sur des tableaux](https://capytale2.ac-paris.fr/web/c/3fba-2944900){target=_blank} ;
+
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+
+    <!-- - **Proposer** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ; -->
+    
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Se préparer** pour une [**évaluation pratique](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} le 21/02** et une **évaluation par QCM le 23/02** portant sur les fonctions, les chaines de caractères, les tableaux, la programmation en Python d'une manière générale et d'autres notions déjà vues... ;
+       
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+***
 ## Du 07/02
 
 === "CONTENU DE SÉANCE"
