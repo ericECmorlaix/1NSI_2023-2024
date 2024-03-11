@@ -202,6 +202,32 @@
 
  -->
 ***
+## Du 11/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/OS.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail via [Capytale n° `acf6-3141192`](https://capytale2.ac-paris.fr/web/c/acf6-3141192){target=_blank} ;
+
+    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et compléter votre memo de ligne de commande [Capytale n° `79c6-3141637`](https://capytale2.ac-paris.fr/web/c/79c6-3141637) ;
+
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){target=_blank} | [Capytale n° 6eab-3002691](https://capytale2.ac-paris.fr/web/c/6eab-3002691){target=_blank} |
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/TP_matrices.ipynb){ .md-button .md-button--primary} ;
+
+    - **Proposer** vos solutions pour les fonctionnalités du notebook [Extras_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Extras_matrices.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Extras_matrices.ipynb){ .md-button .md-button--primary} ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** pour la [Nuit du cOde 2023](./Nuit_du_cOde) ;
+
+
+***
 ## Le19/02
 
 === "CONTENU DE SÉANCE"
