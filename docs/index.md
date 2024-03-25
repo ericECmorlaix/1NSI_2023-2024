@@ -165,24 +165,10 @@
     - **transmettre** le notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){target=_blank} avec les réponses aux exercices du T.A.F. précédent ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} ;
 
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 
 
-***
-## Le 23/01
 
-=== "CONTENU DE SÉANCE"
-
-    - présentation orale des revues de mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    
-    
-=== "TRAVAIL À FAIRE"
-    
-    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
@@ -201,6 +187,29 @@
 
 
  -->
+
+
+***
+## Du 25/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Révisions de SNT : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-653650670442840123/){target=_blank} ;
+    - **Faire** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+
+    - ==**Se préparer** pour une évaluation par QCM portant essentiellement sur les commandes Linux, les tableaux par compréhension, un peu de logique booléenne, de l’algorithmique et de la programmation en Python d’une manière générale== ;
+
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et compléter votre memo de ligne de commande [Capytale n° `79c6-3141637`](https://capytale2.ac-paris.fr/web/c/79c6-3141637) ;
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) ;
 ***
 ## Du 11/03
 
