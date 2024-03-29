@@ -187,7 +187,46 @@
 
 
  -->
+***
+## Le 03/04 (en autonomie)
 
+=== "CONTENU DE SÉANCE"
+    
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+    - **Poursuivre** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} et **conserver** une trace au format notebook dans votre classeur numérique ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et compléter votre memo de ligne de commande [Capytale n° `79c6-3141637`](https://capytale2.ac-paris.fr/web/c/79c6-3141637) ;
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) ;
+***
+## Le 29/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM portant essentiellement sur les commandes Linux, les tableaux par compréhension, un peu de logique booléenne, de l’algorithmique et de la programmation en Python d’une manière générale ;
+    
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+    - **Poursuivre** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} et **conserver** une trace au format notebook dans votre classeur numérique ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et compléter votre memo de ligne de commande [Capytale n° `79c6-3141637`](https://capytale2.ac-paris.fr/web/c/79c6-3141637) ;
+    
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}
+
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) ;
 
 ***
 ## Du 25/03
