@@ -188,6 +188,27 @@
 
  -->
 ***
+## Le 15/04 
+
+=== "CONTENU DE SÉANCE"
+    
+    - **S'entrainer** pour la [Nuit du cOde](./Nuit_du_cOde) :
+        - programmer un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
+
+    - **Finir** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+    - **Finir** les exercices du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} et **conserver** une trace au format notebook dans votre classeur numérique ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Rendre** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    
+    - **Se préparer** pour une évaluation par QCM sur les dictionnaires pour le 06/05 ;
+    
+    - **S'entrainer** encore pour la [Nuit du cOde](./Nuit_du_cOde) ;
+***
 ## Le 10/04 
 
 === "CONTENU DE SÉANCE"
