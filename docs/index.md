@@ -192,7 +192,7 @@
 
 === "CONTENU DE SÉANCE"
     
-    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/&1NSI_2023-2024/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
 
     - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
 
