@@ -187,6 +187,18 @@
 
 
  -->
+
+## Du 13 au 17/05 (le 15/05 en autonomie) 
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Faire** les activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/&1NSI_2023-2024/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+
+    - **Faire** les activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde](./Nuit_du_cOde) :
+        - programmer un jeu de [Snake très simple](./pyxel/Snake_Pyxel_correction.pdf){target=_blank} ;
+
 ***
 ## Le 15/04 
 
