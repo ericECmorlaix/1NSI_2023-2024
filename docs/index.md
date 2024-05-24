@@ -187,6 +187,23 @@
 
 
  -->
+## Le 24/05
+
+=== "CONTENU DE SÉANCE"
+    
+    - Bilan de la [Nuit du cOde](./Nuit_du_cOde) ;
+    
+    - Synthèses des activités ​du notebook [Algorithmique-Complexite](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Complexite.ipynb){ .md-button .md-button--primary} ;
+
+    - Synthèses des activités ​du notebook [Algorithmique-Tri](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){target=_blank}  [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2023-2024/Algorithmique-Tri.ipynb){ .md-button .md-button--primary} ;
+
+     - ==**Se préparer** pour une évaluation pratique d'algorithmique en révisant le [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en [s'exerçant](https://e-nsi.forge.aeif.fr/pratique/){target=_blank}== 
+
+=== "TRAVAIL À FAIRE"
+
+    - ==**Se préparer** pour une évaluation pratique d'algorithmique en révisant le [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en [s'exerçant](https://e-nsi.forge.aeif.fr/pratique/){target=_blank}== 
+
+***
 
 ## Du 13 au 17/05 (le 15/05 en autonomie) 
 
