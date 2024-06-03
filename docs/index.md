@@ -186,16 +186,34 @@
         - [Memo de HTML5](https://codimd.apps.education.fr/BpZd89D2RWqxkfp14uDfSA){target=_blank}
 
 
+## Du 04/06
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des évaluations du trimestre ;
+
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2023-2024/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **regarder** la vidéo [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"} ;
+
+    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} et le transmettre... ;
+***
+
+
+
  -->
 ## Le 03/06
 
 === "CONTENU DE SÉANCE"
       
-    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} ;
+    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} et le transmettre... ;
 
 === "TRAVAIL À FAIRE"
 
-    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} ; 
+    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} et le transmettre... ;
 
 ***
 ## Le 24/05
