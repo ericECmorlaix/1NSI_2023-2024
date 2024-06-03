@@ -187,6 +187,17 @@
 
 
  -->
+## Le 03/06
+
+=== "CONTENU DE SÉANCE"
+      
+    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finaliser** votre notebook memo d'algorithmique à l'aide du [cours](https://e-nsi.forge.aeif.fr/tris/){target=_blank} et en l'illustrant à l'aide d'[exercices](https://e-nsi.forge.aeif.fr/pratique/){target=_blank} ; 
+
+***
 ## Le 24/05
 
 === "CONTENU DE SÉANCE"
