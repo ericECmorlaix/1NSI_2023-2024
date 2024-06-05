@@ -185,7 +185,7 @@
         - [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank}
         - [Memo de HTML5](https://codimd.apps.education.fr/BpZd89D2RWqxkfp14uDfSA){target=_blank}
 
-
+ -->
 ## Du 04/06
 
 === "CONTENU DE SÉANCE"
@@ -204,7 +204,7 @@
 
 
 
- -->
+
 ## Le 03/06
 
 === "CONTENU DE SÉANCE"
